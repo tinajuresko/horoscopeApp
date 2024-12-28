@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		267EF3CC2D206D6F007B4F91 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 267EF3CB2D206D6F007B4F91 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		267EF3432D1EE2CA007B4F91 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		267EF3322D1EE2C8007B4F91 /* horoscopeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = horoscopeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		267EF3422D1EE2CA007B4F91 /* horoscopeAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = horoscopeAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		267EF34C2D1EE2CA007B4F91 /* horoscopeAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = horoscopeAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		267EF3CB2D206D6F007B4F91 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		267EF3292D1EE2C8007B4F91 = {
 			isa = PBXGroup;
 			children = (
+				267EF3CB2D206D6F007B4F91 /* README.md */,
 				267EF3342D1EE2C8007B4F91 /* horoscopeApp */,
 				267EF3452D1EE2CA007B4F91 /* horoscopeAppTests */,
 				267EF34F2D1EE2CA007B4F91 /* horoscopeAppUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				267EF3CC2D206D6F007B4F91 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
